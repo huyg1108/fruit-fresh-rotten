@@ -2,7 +2,8 @@
 
 Dinh dưỡng là một phần không thể thiếu của cuộc sống và trong đó, trái cây đóng vai trò rất quan trọng. Do nhu cầu lớn nên cần đến hệ thống sản xuất lớn. Nhóm em lên ý tưởng về một mô hình phân loại trái cây theo 2 nhóm tươi và hỏng bằng phương pháp CNN.
 
-## Structure
+
+## Project Structure
 ```bash
 ├── README.md
 ├── dataset "--> We download and use dataset in kaggle"
