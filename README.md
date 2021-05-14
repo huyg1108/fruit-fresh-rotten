@@ -1,6 +1,7 @@
 # Fruit fresh and rotten classification
 
-Dinh dưỡng là một phần không thể thiếu của cuộc sống, trong đó trái cây đóng vai trò rất quan trọng. Do nhu cầu sử dụng lớn nên cần đến hệ thống sản xuất lớn, ta không thể lọc từng trái cây được. Vì vậy nhóm em lên ý tưởng về một mô hình phân loại trái cây theo 2 nhóm tươi và hỏng.
+Nutrition plays an essential part in our daily life and we can be nutritious without a suitable amount of fruit. Due to the high consumption of this kind of food, we need massive productivities because we can't filter every single apple or banana. From this momentous problem, we have a golden solution that our goal is to create a model classifying fresh and rotten fruit!
+
 
 
 ## Project Structure
@@ -32,6 +33,7 @@ Dinh dưỡng là một phần không thể thiếu của cuộc sống, trong �
     └── Demo
 ```
 
+
 ## Dataset
 Training data and testing data that were used are sourced from kaggle: https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification <br/> The dataset contains 13599 images of apple, banana, and orange divided into fresh and rotten each.
 Dataset       | Directories     | Files
@@ -50,6 +52,12 @@ Train         | freshapples     | 1693
 |             | rottenoranges   | 1595
 
 
+
+## Build with
+* We use [convolution neural network (CNN) using tensorflow](https://www.tensorflow.org/tutorials/images/cnn) to train our classification model
+
+
+
 ## Installation
 
 **Before you continue, ensure you meet the following requirements:**
@@ -61,6 +69,7 @@ Train         | freshapples     | 1693
 - In the "Import data", import file "kaggle.json" to download datasets.
 - Wait for the trained model.
 - Insert pictures from devices and wait for the result!!!
+
 
 ## Authors:
 - **Triệu Gia Huy**
