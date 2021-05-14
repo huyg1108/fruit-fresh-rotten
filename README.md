@@ -22,11 +22,31 @@ Dinh dưỡng là một phần không thể thiếu của cuộc sống và tron
 └── fruit-classification.ipynb "--> baseline python notebook"
 ```
 
+## Datasets
+Training Data and Testing Data that were used are sourced from kaggle :https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification <br/> The dataset contains 13599 images of apple, banana, and orange divided into fresh and rotten each.
+Dataset       | Directories     | Files
+------------- | -------------   | -------------
+Test          | freshapples     | 395
+|             | freshbanana     | 381
+|             | freshoranges    | 388
+|             | rottenapples    | 601
+|             | rottenbanana    | 530
+|             | rottenoranges   | 403
+Train         | freshapples     | 1693
+|             | freshbanana     | 1581
+|             | freshoranges    | 1466
+|             | rottenapples    | 2342
+|             | rottenbanana    | 2224
+|             | rottenoranges   | 1595
+
+
+## Installation
+
 **Before you continue, ensure you meet the following requirements:**
 - Download google colab
 - Download file "kaggle.json" which we add to this git
 
-## How to use
+#### How to use
 - Run the code in google colab.
 - In the "Import data", import file "kaggle.json" to download datasets.
 - Wait for the trained model.
