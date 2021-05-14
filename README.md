@@ -7,26 +7,26 @@ Dinh dưỡng là một phần không thể thiếu của cuộc sống và tron
 ├── README.md
 ├── dataset "--> We download and use datasets in kaggle"
 │   ├── test
-│   │   ├── fresh apples
-│   │   ├── fresh banana
-│   │   ├── fresh oranges
-│   │   ├── rotten apples
-│   │   ├── rotten banana
-│   │   └── rotten oranges
+│   │   ├── freshapples
+│   │   ├── freshbanana
+│   │   ├── freshoranges
+│   │   ├── rottenapples
+│   │   ├── rottenbanana
+│   │   └── rottenoranges
 │   └── train
-│       ├── fresh apples
-│       ├── fresh banana
-│       ├── fresh oranges
-│       ├── rotten apples
-│       ├── rotten banana
-│       └── rotten oranges
+│       ├── freshapples
+│       ├── freshbanana
+│       ├── freshoranges
+│       ├── rottenapples
+│       ├── rottenbanana
+│       └── rottenoranges
 └── fruit-classification.ipynb "--> baseline python notebook"
     ├── Import library
     ├── Download dataset
     ├── Import dataset
     ├── Handling dataset
     ├── Training model
-    ├── Accuracy
+    ├── Evaluate Model
     ├── Save model
     └── Demo
 ```
