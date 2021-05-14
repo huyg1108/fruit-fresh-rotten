@@ -23,7 +23,7 @@ Dinh dưỡng là một phần không thể thiếu của cuộc sống và tron
 ```
 
 ## Datasets
-Training Data and Testing Data that were used are sourced from kaggle :https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification <br/> The dataset contains 13599 images of apple, banana, and orange divided into fresh and rotten each.
+Training Data and Testing Data that were used are sourced from kaggle: https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification <br/> The dataset contains 13599 images of apple, banana, and orange divided into fresh and rotten each.
 Dataset       | Directories     | Files
 ------------- | -------------   | -------------
 Test          | freshapples     | 395
