@@ -22,19 +22,15 @@ Dinh dưỡng là một phần không thể thiếu của cuộc sống và tron
 └── fruit-classification.ipynb "--> baseline python notebook"
 ```
 
-## How to use:
-
-### First:
+**Before you continue, ensure you meet the following requirements:**
 - Download google colab
-- Run the program in google colab.
+- Download file "kaggle.json" which we add to this git
 
-### Second:
-- In the "Import data", import file "kaggle.json".
+## How to use
+- Run the code in google colab.
+- In the "Import data", import file "kaggle.json" to download datasets.
 - Wait for the trained model.
-- Insert pictures from devices.
-
-### Last:
-- Wait for the result!!!
+- Insert pictures from devices and wait for the result!!!
 
 ## Authors:
 - **Triệu Gia Huy**
