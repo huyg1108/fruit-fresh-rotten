@@ -1,8 +1,8 @@
 # Fruit fresh and rotten classification
 
 Dinh dưỡng là một phần không thể thiếu của cuộc sống và trong đó, trái cây đóng vai trò rất quan trọng. Do nhu cầu lớn nên cần đến hệ thống sản xuất lớn. Nhóm em lên ý tưởng về một mô hình phân loại trái cây theo 2 nhóm tươi và hỏng bằng phương pháp CNN.
-
-.
+## Structure
+```bash
 ├── README.md
 ├── datasets
 │   ├── test "--> Our test datasets, contains fresh and rotten apples, bananas, oranges"
@@ -24,7 +24,7 @@ Dinh dưỡng là một phần không thể thiếu của cuộc sống và tron
 └── upload\ test
     ├── Apple,\ Banana,\ Orange "--> List of Images we used for testing the model"
     └── Wrong\ predict "--> List of Images that already tested and the model predict it wrong"
-
+```
 
 ## How to use:
 
