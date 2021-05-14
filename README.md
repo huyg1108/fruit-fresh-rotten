@@ -16,6 +16,6 @@ Dinh dưỡng là một phần không thể thiếu của cuộc sống và tron
 ### Last:
 - Wait for the result!!!
 
-## Thành viên nhóm:
+## Authors:
 - **Triệu Gia Huy**
 - **Nguyễn Tấn Bảo Lễ**
