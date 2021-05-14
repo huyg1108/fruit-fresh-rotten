@@ -1,6 +1,6 @@
 # Fruit fresh and rotten classification
 
-Dinh dưỡng là một phần không thể thiếu của cuộc sống, trong đó trái cây đóng vai trò rất quan trọng. Do nhu cầu sử dụng lớn nên cần đến hệ thống sản xuất lớn, ta không thể lọc từng trái cây được. Vì vậy nhóm em lên ý tưởng về một mô hình phân loại trái cây theo 2 nhóm tươi và hỏng bằng phương pháp CNN.
+Dinh dưỡng là một phần không thể thiếu của cuộc sống, trong đó trái cây đóng vai trò rất quan trọng. Do nhu cầu sử dụng lớn nên cần đến hệ thống sản xuất lớn, ta không thể lọc từng trái cây được. Vì vậy nhóm em lên ý tưởng về một mô hình phân loại trái cây theo 2 nhóm tươi và hỏng.
 
 
 ## Project Structure
