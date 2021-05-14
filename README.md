@@ -4,26 +4,22 @@ Dinh dưỡng là một phần không thể thiếu của cuộc sống và tron
 ## Structure
 ```bash
 ├── README.md
-├── datasets
-│   ├── test "--> Our test datasets, contains fresh and rotten apples, bananas, oranges"
-│   │   ├── freshapples
-│   │   ├── freshbanana
-│   │   ├── freshoranges
-│   │   ├── rottenapples
-│   │   ├── rottenbanana
-│   │   └── rottenoranges
-│   └── train "--> Our train datasets, contains fresh and rotten apples, bananas, oranges"
-│       ├── freshapples
-│       ├── freshbanana
-│       ├── freshoranges
-│       ├── rottenapples
-│       ├── rottenbanana
-│       └── rottenoranges
-├── fresh-rotten-fruits-improve.ipynb "--> final python notebook for creating our model"
-├── fresh_rotten_fruits_baseline.ipynb "--> baseline python notebook"
-└── upload\ test
-    ├── Apple,\ Banana,\ Orange "--> List of Images we used for testing the model"
-    └── Wrong\ predict "--> List of Images that already tested and the model predict it wrong"
+├── datasets "--> We download and use datasets in kaggle"
+│   ├── test
+│   │   ├── fresh apples
+│   │   ├── fresh banana
+│   │   ├── fresh oranges
+│   │   ├── rotten apples
+│   │   ├── rotten banana
+│   │   └── rotten oranges
+│   └── train
+│       ├── fresh apples
+│       ├── fresh banana
+│       ├── fresh oranges
+│       ├── rotten apples
+│       ├── rotten banana
+│       └── rotten oranges
+└── fruit-classification.ipynb "--> baseline python notebook"
 ```
 
 ## How to use:
