@@ -5,7 +5,7 @@ Dinh dưỡng là một phần không thể thiếu của cuộc sống và tron
 ## Structure
 ```bash
 ├── README.md
-├── dataset "--> We download and use datasets in kaggle"
+├── dataset "--> We download and use dataset in kaggle"
 │   ├── test
 │   │   ├── freshapples
 │   │   ├── freshbanana
@@ -31,8 +31,8 @@ Dinh dưỡng là một phần không thể thiếu của cuộc sống và tron
     └── Demo
 ```
 
-## Datasets
-Training Data and Testing Data that were used are sourced from kaggle: https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification <br/> The dataset contains 13599 images of apple, banana, and orange divided into fresh and rotten each.
+## Dataset
+Training data and testing data that were used are sourced from kaggle: https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification <br/> The dataset contains 13599 images of apple, banana, and orange divided into fresh and rotten each.
 Dataset       | Directories     | Files
 ------------- | -------------   | -------------
 Test          | freshapples     | 395
