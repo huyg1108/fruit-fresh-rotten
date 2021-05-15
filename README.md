@@ -73,5 +73,5 @@ Train         | freshapples     | 1693
 
 
 ## Authors:
-- **Triệu Gia Huy** [huyg](https://github.com/huyg1108)
-- **Nguyễn Tấn Bảo Lễ** [baroleex](https://github.com/baroleex04)
+- **Triệu Gia Huy** - [huyg](https://github.com/huyg1108)
+- **Nguyễn Tấn Bảo Lễ** - [baroleex](https://github.com/baroleex04)
