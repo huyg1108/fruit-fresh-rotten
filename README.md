@@ -54,7 +54,8 @@ Train         | freshapples     | 1693
 
 
 ## Build with
-* We use [convolution neural network (CNN) using tensorflow](https://www.tensorflow.org/tutorials/images/cnn) to train our classification model
+* [Convolution neural network (CNN) using tensorflow](https://www.tensorflow.org/tutorials/images/cnn)
+* [InceptionV3](https://keras.io/api/applications/inceptionv3/)
 
 
 
@@ -72,5 +73,5 @@ Train         | freshapples     | 1693
 
 
 ## Authors:
-- **Triệu Gia Huy**
-- **Nguyễn Tấn Bảo Lễ**
+- **Triệu Gia Huy** [huyg](https://github.com/huyg1108)
+- **Nguyễn Tấn Bảo Lễ** [baroleex](https://github.com/baroleex04)
