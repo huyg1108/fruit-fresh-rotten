@@ -71,11 +71,11 @@ Train         | freshapples     | 1693
 ## Installation
 
 **Before you continue, ensure you meet the following requirements:**
-- Download google colab
+- Download google colab in google drive
 - Download file "kaggle.json" which we add to this git
 
 #### How to use
-- Run the code in google colab.
+- Run the code in google colab with GPU.
 - In the "Import data", import file "kaggle.json" to download datasets.
 - Wait for the trained model.
 - Insert pictures from devices and wait for the result!!!
