@@ -27,9 +27,18 @@ Nutrition plays an essential part in our daily life and we can be nutritious wit
     ├── Download dataset
     ├── Import dataset
     ├── Handling dataset
+    │   ├── Spitting dataset
+    │   └── Preprocessing data
     ├── Training model
+    │   ├── Sequential model
+    │   └── Transfer learning
     ├── Evaluate Model
+    │   ├── Accuracy
+    │   ├── Learning curve
+    │   └── Confusion matrix
+    ├── Performance
     ├── Save model
+    │   └── Load model
     └── Demo
 ```
 
